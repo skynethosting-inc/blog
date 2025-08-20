@@ -2,8 +2,8 @@
 layout: post
 title: "How to Set Up Your New iPhone 6 the Right Way"
 description: "The iPhone 6 and Phone 6 Plus are smartphones designed and marketed by Apple Inc."
-date: 2019-01-02
-feature_image: images/iphone-6.jpg
+date: 2025-08-19
+feature_image: images/sky.jpg
 tags: [tips, design]
 ---
 
