@@ -53,7 +53,7 @@ SkyNetHosting.Net isn’t just hosting—it’s a *business-building platform*:
 - Free *WHMCS License* ($191/year value): Automate billing, support, provisioning  
 - Domain Reseller Integration: White-label domain sales in WHMCS  
 - SSL Reseller Program: *85% off Comodo SSLs* for high-margin upsells  
-- Server Reselling: VPS from $16.47/mo, Dedicated from $19.97/mo  
+- Server Reselling: VPS from $2.95/mo, Dedicated from $39.95/mo  
 
 ---
 
